@@ -14,8 +14,8 @@ def update_time():
 
 def update_weather():
     # API key для доступа к погодному сервису (замените на свой собственный ключ)
-    api_key = "40717ffd099e9b57a3dfdb38854180dd"  # Замените "your_api_key_here" на ваш API ключ
-    # Запрос на получение погоды в Kharkiv
+    api_key = "token from openweathermap"  # Замените "your_api_key_here" на ваш API ключ
+    # Запрос на получение погоды в Kharkiv. Change Kharkiv to your city
     url = f"http://api.openweathermap.org/data/2.5/weather?q=Kharkov&appid={api_key}&units=metric"
     response = requests.get(url)
     data = response.json()

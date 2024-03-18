@@ -1,0 +1,76 @@
+St.01 Громадське радіо [UA] : https://hromadske.radio/radio_https_upstream
+St.02 Українське радіо Київ [UA] : http://radio.ukr.radio:8000/ur1-kyiv-mp3
+St.03 Радіоточка [UA] : http://radio.ukr.radio:8000/ur5-mp3
+St.04 Radio Ukraine International [UA] : http://radio.ukr.radio:8000/ur4-mp3
+St.05 Українське радіо Казки [UA] : http://radio.ukr.radio:8000/kazka-mp3
+St.06 Родинне радіо [UA] : https://radio.ukraudio.com:8000/channel1.aac
+St.07 Радио Андромеда-Одесса [UA] : https://garmonia-stream.fakel.com.ua/1
+St.08 Радіо Nostalgie-Київ [UA] : https://stream.radiojar.com/hcrb063nn3quv
+St.09 Радіо Київ [UA] : https://cdn.vsnw.net:8943/kyiv_fm_128k
+St.10 Світле Радіо Еммануїл [UA] : http://online.svitle.org:6730/sre
+St.11 Українське радіо Харків [UA] : http://radio.vaticannews.va:80/stream-uk
+St.12 Радіо Культура [UA] : http://radio.ukr.radio:8000/ur3-mp3
+St.13 Радіо NovaLine [UA] : http://stream.novaline.fm/Novaline_128
+St.14 Радіо Промінь [UA] : http://radio.ukr.radio:8000/ur2-mp3
+St.15 Радіо UA-Чикаго [US] : https://eu8.fastcast4u.com/proxy/radiouachicago?mp=/1
+St.16 Радіо Ватикану [UA] : http://radio.vaticannews.va:80/stream-uk
+St.17 Радио свобода [US] : https://stream.radiojar.com/hcrb063nn3quv
+St.18 Радио Лента [LT] : https://stream01.the-broadcasters.net/radiolenta_mp3
+St.19 Первое радио-Израиль : https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio
+St.20 Радио Свет-Портланд [US] : http://pdxrr.com:8090/;stream.nsv
+St.21 KXPD Slavic Family-Portland [US] : https://us3.streamingpulse.com/ssl/SlavicMediaHoldings
+St.22 WHII-Радио Филадельфия [US] : http://s4.voscast.com:8278/
+St.23 WSNR Дэвидзон Радио-Нью-Йорк [US] : http://ags.abinet.com:8800/wsnr.mp3
+St.24 Radio Dresden [DE] : https://edge09.radio.radiodresden.de/radiodresden-live?aggregator=redirect
+St.25 Radio Nostalgie - France [FR] : https://scdn.nrjaudio.fm/fr/30601/aac_64.mp3?origine=radiomapeu&cdn_path=adswizz_lbs8
+St.26 Rock Antenne-Bayern *[DE] : http://stream.rockantenne.de/rockantenne-bayern
+St.27 Capital [UK] : https://media-ice.musicradio.com/CapitalMP3
+St.28 Capital Xtra [UK] : https://media-ice.musicradio.com/CapitalXTRALondonMP3
+St.29 LBC [UK] : https://media-ice.musicradio.com/LBCLondonMP3Low
+St.30 Classic FM [UK] : https://media-ice.musicradio.com/ClassicFMMP3
+St.31 Asian Star Radio [UK] : https://radio.canstream.co.uk:9067/live.mp3
+St.32 Heart [UK] : https://media-ice.musicradio.com/HeartHarlowMP3
+St.33 Smooth [UK] : https://media-ice.musicradio.com/SmoothLondonMP3
+St.34 Resonance FM [UK] : http://stream.resonance.fm:80/resonance
+St.35 RadioX [UK] : https://media-ice.musicradio.com/RadioXClassicRockMP3
+St.36 Reprezent Radio [UK] : https://radio.canstream.co.uk:8022/live.mp3
+St.37 Канал Культура-Беларускае радыё [BY] : http://stream2.datacenter.by:8000/kultura
+St.38 Радыё Рацыя - Беласток [BY] : http://air.racyja.com:8000/racja320
+St.39 Еўрапейскае радыё для Беларусі [BY] : http://stream1.euroradio.fm:8000/euroradio1
+St.40 Ватыканскае радыё [BY] : http://radio.vaticannews.va:80/stream-be
+St.41 Першы нацыянальны канал [BY] : http://stream2.datacenter.by:8005/1kanal
+St.42 Radijo stotis Rock FM-Lietuva [LT] : https://stream2.rockfm.lt/crf128.mp3
+St.43 LSM Латвийское Радио 4 [LV] : http://lr4mp1.latvijasradio.lv:8020/
+St.44 ERR Радио 4-Эстония [EE] : http://icecast.err.ee:80/raadio4.mp3
+St.45 Rock Antenne-Deutschland [DE] : http://stream.rockantenne.de/rockantenne
+St.46 Radio Osterreich 1 [AU] : http://ors-sn03.ors-shoutcast.at/oe1-q2a
+St.47 Klassik Radio-Osterreich [AU] : https://klassikr.streamabc.net/klr-kratnational-mp3-192-4723869?aggregator=Radiomapeu
+St.48 Hitradio O3-Osterreich [AU] : http://ors-sn03.ors-shoutcast.at/oe3-q2a
+St.49 Radio Austria-Osterreich [AU] : http://radioaustria.stream.kapper.net:8000/radioaustria
+St.50 FREIRAD-Freies Radio Innsbruck [AU] : http://stream.freirad.at:8002/live.mp3
+St.51 Hitradio O3-Osterreich [AU] : http://ors-sn03.ors-shoutcast.at/oe3-q2a
+St.52 Radio U1 Tirol [DE] : https://live.u1-radio.at/?
+St.53 Radio Vatikan auf Deutsch [DE] : http://radio.vaticannews.va:80/stream-de
+St.54 Radio Arabella Hot-Osterreich [AU] : https://frontend.streams.arabella.at/arabella-hot/stream/mp3?aggregator=arabella-playlistfile
+St.55 Bayerischer Rundfunk-Bayern 3 [DE] : http://stream1.energy.at:8000/ibk
+St.56 Radio Energy-Innsbruck [AU] : http://stream1.energy.at:8000/ibk
+St.57 Radio FM4-Osterreich [AU] : http://ors-sn03.ors-shoutcast.at/fm4-q2a
+St.58 Bayerischer Rundfunk-BR Klassik [DE] : https://dispatcher.rndfnk.com/br/brklassik/live/mp3/mid
+St.59 Bayerischer Rundfunk-BR24 in Radio [DE] : https://dispatcher.rndfnk.com/br/br24/live/mp3/mid
+St.60 Radio Arabella-Relax-Osterreich [AU] : https://frontend.streams.arabella.at/arabella-relax?aggregator=arabella-playlistfile
+St.61 Radio Energy-Wien [AU] : http://stream1.energy.at:8000/vie
+St.62 Mein Kinderradio-Wien [AU] : http://stream01.zogl.net:8906/stream
+St.63 Radio ONE-Osterreich [AU] : https://stream.radiotechnikum.at:80/TECHONE
+St.64 Radio klassik Stephansdom Wien [DE] : http://icepe13:80/radioklassikstephansdom.mp3
+St.65 Radio Alpenwelle-Bayern [DE] : http://live.alpenwelle.de:80/alpenwelle128.mp3
+St.66 Radio Alpin FM-Bayern [DE] : https://s21.myradiostream.com/14754/listen.mp3
+St.67 Radio Charivari - Rosenheim *[DE] : http://s17.myradiostream.com:10938/
+St.68 Radio Swiss Classic-Schweiz *[SW] : http://streaming.swisstxt.ch:80/m/rsc_de/mp3_128
+St.69 Radio Swiss Pop - Switzerland *[SW] : http://streaming.swisstxt.ch:80/m/rsp/mp3_128
+St.70 Bayerischer Rundfunk-BR Heimat [DE] : https://dispatcher.rndfnk.com/br/brheimat/live/mp3/mid
+St.71 RSI Rete Due-Svizzera italiana *[IT] : http://streaming.swisstxt.ch:80/m/retedue/mp3_128
+St.72 Radio RTR-Svizra *[DE] : http://streaming.swisstxt.ch:80/m/rr/mp3_128
+St.73 Radio Swiss Jazz - Switzerland *[DE] : http://streaming.swisstxt.ch:80/m/rsj/mp3_128
+St.74 Bayerischer Rundfunk-PULS [DE] : https://dispatcher.rndfnk.com/br/puls/live/mp3/mid
+St.75 Bayerischer Rundfunk-BR Schlager [DE] : https://dispatcher.rndfnk.com/br/brschlager/live/mp3/mid
+St.76 Bayerischer Rundfunk-BR24live [DE] : https://dispatcher.rndfnk.com/br/br24live/live/mp3/mid

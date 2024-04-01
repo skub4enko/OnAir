@@ -14,6 +14,9 @@ such a service.
 
 The precompiled .exe file for Windows devices is located in the Dist folder.
 
+For the application to work correctly, the latest version of VLC must be installed on your system.
+https://www.videolan.org/vlc/
+
 ES
 
 Esta es una aplicación para escuchar estaciones de radio por internet escrita en
@@ -31,6 +34,9 @@ este servicio.
 El archivo .exe precompilado para dispositivos Windows se encuentra en la
 carpeta Dist.
 
+Para que la aplicación funcione correctamente, debe estar instalada la última versión de VLC en su sistema.
+https://www.videolan.org/vlc/
+
 RU
 
 Это приложение для прослушивания интернет радиостанций написанное на python с
@@ -47,3 +53,6 @@ RU
 
 Уже скомпилированный .exe файл для устройств под управлением Windows находится в
 папке Dist.
+
+Для корректной работы приложения в вашей системе должна быть установлена последняя версия VLC.
+https://www.videolan.org/vlc/
